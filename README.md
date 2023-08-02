@@ -77,14 +77,14 @@ open _build/default/_doc/_html/index.html
 ```
 
 # Resources
-**OCaml First Steps**
-https://ocaml.org/docs/up-and-running#first-steps-with-ocaml
-**OCaml Manual**
-https://v2.ocaml.org/manual/index.html
-**Real World OCaml**
-https://dev.realworldocaml.org/index.html
-**Dune**
-https://dune.readthedocs.io/en/stable/
+- **OCaml First Steps**
+(https://ocaml.org/docs/up-and-running#first-steps-with-ocaml)
+- **OCaml Manual**
+(https://v2.ocaml.org/manual/index.html)
+- **Real World OCaml**
+(https://dev.realworldocaml.org/index.html)
+- **Dune**
+(https://dune.readthedocs.io/en/stable/)
 
 
 
